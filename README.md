@@ -1,7 +1,7 @@
 # Test_Repo
 This is configuring the repository and the steps I need to take:
    ** Git Config:**
-'''
+```
    >     git config --global user.email "EIwenofu.89@gmail.com"
    >     git config --global user.name "Airmekar89"
    >     git config --global branch.autosetuprebase always
@@ -12,6 +12,6 @@ This is configuring the repository and the steps I need to take:
    >     git config --global gpg.format ssh
    >     git config --global user.signingkey /home/airmekar89/.ssh/id_rsa.pub
    >     git config --global commit.template /home/airmekar89/.gitmessage
-'''
+```
        
 
