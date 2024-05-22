@@ -1,6 +1,6 @@
 # Test_Repo
 This is configuring the repository and the steps I need to take:
-   ** Git Config:**
+   **Git Config:**
 ```
         git config --global user.email "EIwenofu.89@gmail.com"
         git config --global user.name "Airmekar89"
