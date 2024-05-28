@@ -10,7 +10,7 @@ This is configuring the repository and the steps I need to take:
         git config --global credential.helper store
         git config --global commit.gpgsign true
         git config --global gpg.format ssh
-        git config --global user.signingkey /home/airmekar89/.ssh/id_rsa.pub
+        git config --global user.signingkey /home/airmekar89/.ssh/id_ed25519.pub
         git config --global commit.template /home/airmekar89/.gitmessage
 ```
        
